@@ -1,0 +1,25 @@
+{
+  "name": "smart-brain-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "clarifai": "^2.7.1",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "knex": "^0.14.6",
+    "pg": "^7.4.3"
+  },
+  "devDependencies": {
+    "@ionic/app-scripts": "^3.1.7-201801172029",
+    "ws": "3.3.2"
+  },
+  "description": ""
+}

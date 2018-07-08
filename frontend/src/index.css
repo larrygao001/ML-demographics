@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(89deg,rgb(7, 124, 170) 0%, rgb(154, 173, 46) 100%);
+}
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:500');
+
+button{
+  cursor:pointer;
+}
