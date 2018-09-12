@@ -12,7 +12,7 @@
 
 ## Introduction
 
-Demographics Analysis is a react based web application that does dedemographic analysis based on image URLs.
+Demographics Analysis is a react based web application that performs demographic analysis based on image URLs.
 
 Build with [Create React App](https://github.com/facebook/create-react-app).
 
